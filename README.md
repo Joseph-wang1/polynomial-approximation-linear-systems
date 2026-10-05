@@ -8,7 +8,7 @@ The project explores polynomial approximation and different types of linear syst
 
 ## Research Poster
 
-[View the full GEARS Research Poster (PDF)](Junzhuo_Wang_GEARS_Poster.pdf)
+[View the full GEARS Research Poster (PDF)](Junzhuo_Wang_GEARS_Poster .pdf)
 
 ## Methods
 
