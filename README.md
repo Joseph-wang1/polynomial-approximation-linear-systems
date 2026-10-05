@@ -10,6 +10,8 @@ The project explores polynomial approximation and different types of linear syst
 
 [View the full GEARS Research Poster (PDF)](Junzhuo_Wang_GEARS_Poster.pdf)
 
+![GEARS Research Poster](GEARS_Research_Poster.jpeg)
+
 ## Methods
 
 - Least Squares
